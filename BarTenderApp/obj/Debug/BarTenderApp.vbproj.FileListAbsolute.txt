@@ -1,0 +1,13 @@
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\bin\Debug\BarTenderApp.exe.config
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\bin\Debug\BarTenderApp.exe
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\bin\Debug\BarTenderApp.pdb
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\bin\Debug\BarTenderApp.xml
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.vbprojAssemblyReference.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\Interop.BarTender.dll
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.vbproj.ResolveComReference.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.Resources.resources
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.vbproj.GenerateResource.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.vbproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.exe
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.xml
+C:\Users\Thinkpad\Documents\Visual Studio 2017\Projects\BarTenderApp\BarTenderApp\obj\Debug\BarTenderApp.pdb
